@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\task4.dir/objects.a
+C:\winlibs-i686-posix-dwarf-gcc-15.2.0-mingw-w64ucrt-13.0.0-r2\mingw32\bin\ar.exe qc CMakeFiles\task4.dir/objects.a @CMakeFiles\task4.dir\objects1.rsp
+C:\WINLIBS-I686-POSIX-DWARF-GCC-15.2.0-MINGW-W64UCRT-13.0.0-R2\mingw32\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\task4.dir/objects.a -Wl,--no-whole-archive -o task4.exe -Wl,--out-implib,libtask4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task4.dir\linkLibs.rsp

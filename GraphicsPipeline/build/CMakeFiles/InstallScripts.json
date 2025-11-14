@@ -1,0 +1,18 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/_deps/glad-build/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/_deps/glm-build/glm/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task1/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task2/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task4/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task6/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task7/cmake_install.cmake",
+		"C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/GraphicsPipeline/build/task8/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,30 @@
+# map/track_complex.txt
+# Complex marble run: zig-zag, narrowings, final chicane
+
+WIDTH 5.0
+START_Z 0.0
+FINISH_Z -80.0
+
+# Start gates
+OBSTACLE -1.5 -6.0  1.2 1.0
+OBSTACLE  1.5 -10.0 1.2 1.0
+
+# First chicane
+OBSTACLE  0.0  -16.0 1.0 1.5
+OBSTACLE -1.8  -22.0 1.0 1.5
+OBSTACLE  1.8  -28.0 1.0 1.5
+
+# Mid-section staggered blocks
+OBSTACLE  0.0  -34.0 1.5 1.0
+OBSTACLE  0.0  -38.0 1.5 1.0
+OBSTACLE -1.6  -44.0 0.8 1.6
+OBSTACLE  1.6  -50.0 0.8 1.6
+
+# Narrow corridor with two side walls
+OBSTACLE -2.2  -56.0 0.6 3.0
+OBSTACLE  2.2  -56.0 0.6 3.0
+
+# Final S-shaped chicane
+OBSTACLE  1.4  -64.0 1.0 1.5
+OBSTACLE -1.4  -70.0 1.0 1.5
+OBSTACLE  0.0  -76.0 1.4 1.5

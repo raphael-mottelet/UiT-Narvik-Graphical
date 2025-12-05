@@ -1,0 +1,3 @@
+C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/Exam/build/_deps/glm-subbuild/CMakeFiles/glm-populate.dir
+C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/Exam/build/_deps/glm-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Administrateur/Desktop/UiT-Narvik-Graphical/Exam/build/_deps/glm-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,53 @@
+# map/track_curves.txt
+# Couloir en S avec murs incurvés
+
+WIDTH 6.0
+START_Z 0.0
+FINISH_Z -110.0
+
+# Portail de départ (un peu plus étroit que la piste)
+OBSTACLE -1.2  -4.0  0.8 1.5
+OBSTACLE  1.2  -4.0  0.8 1.5
+
+# Début : couloir droit
+OBSTACLE -1.80  -8.0 0.3 4.0   # mur gauche
+OBSTACLE  1.80  -8.0 0.3 4.0   # mur droit
+OBSTACLE -1.80 -14.0 0.3 4.0
+OBSTACLE  1.80 -14.0 0.3 4.0
+
+# Courbe vers la gauche (centre du couloir décale vers x < 0)
+OBSTACLE -2.30 -20.0 0.3 4.0
+OBSTACLE  1.30 -20.0 0.3 4.0
+OBSTACLE -2.70 -26.0 0.3 4.0
+OBSTACLE  0.90 -26.0 0.3 4.0
+OBSTACLE -3.00 -32.0 0.3 4.0
+OBSTACLE  0.60 -32.0 0.3 4.0
+OBSTACLE -3.20 -38.0 0.3 4.0
+OBSTACLE  0.40 -38.0 0.3 4.0
+
+# Petit droit, toujours décalé à gauche
+OBSTACLE -3.20 -44.0 0.3 4.0
+OBSTACLE  0.40 -44.0 0.3 4.0
+OBSTACLE -3.20 -50.0 0.3 4.0
+OBSTACLE  0.40 -50.0 0.3 4.0
+
+# Courbe qui revient vers la droite
+OBSTACLE -3.00 -56.0 0.3 4.0
+OBSTACLE  0.60 -56.0 0.3 4.0
+OBSTACLE -2.40 -62.0 0.3 4.0
+OBSTACLE  1.20 -62.0 0.3 4.0
+OBSTACLE -1.50 -68.0 0.3 4.0
+OBSTACLE  2.10 -68.0 0.3 4.0
+OBSTACLE -0.80 -74.0 0.3 4.0
+OBSTACLE  2.80 -74.0 0.3 4.0
+
+# Fin de courbe : couloir droit mais centré à droite
+OBSTACLE -0.80 -82.0 0.3 4.0
+OBSTACLE  2.80 -82.0 0.3 4.0
+OBSTACLE -0.80 -90.0 0.3 4.0
+OBSTACLE  2.80 -90.0 0.3 4.0
+
+# Entonnoir vers la ligne d'arrivée
+OBSTACLE -0.50 -96.0 0.6 2.0
+OBSTACLE  0.50 -96.0 0.6 2.0
+OBSTACLE  0.00 -104.0 1.0 2.0

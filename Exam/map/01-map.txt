@@ -1,0 +1,9 @@
+# Simple straight track example
+WIDTH 4.0
+START_Z 0.0
+FINISH_Z -30.0
+
+# OBSTACLE centerX centerZ sizeX sizeZ
+OBSTACLE 0.0 -10.0 1.2 1.0
+OBSTACLE 1.5 -18.0 1.0 1.0
+OBSTACLE -1.0 -24.0 0.8 1.2
